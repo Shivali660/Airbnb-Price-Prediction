@@ -77,6 +77,16 @@ The model also supports price predictions for new Airbnb listings based on their
 
 ## Conclusion
 This project demonstrates an end-to-end machine learning workflow, from data exploration and preprocessing to model development, hyperparameter tuning, and evaluation.
+## Project Visualizations
+
+### Average Airbnb Price by Borough
+![EDA](images/eda.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
+
+### Actual vs Predicted Prices
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 Although the Tuned Random Forest performed better than the other tested models, there is scope for improvement through additional feature engineering, outlier treatment, and experimentation with other algorithms.
 
